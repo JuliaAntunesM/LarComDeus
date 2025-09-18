@@ -165,7 +165,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Utilidades Domésticas',
             room: 'cozinha',
-            image: './fotodosprodutos/Kit 3 Formas com Fundo Removível Antiaderente.jpg',
+            image: './fotodosprodutos/21.jpg',
             url: 'https://s.shopee.com.br/6fY0662DEm'
         },
         {
@@ -183,7 +183,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Utilidades Domésticas',
             room: 'cozinha',
-            image: './fotodosprodutos/Pote Hermético Vidro Cozinha.jpg',
+            image: './fotodosprodutos/20.jpg',
             url: 'https://s.shopee.com.br/60IJISxFYq'
         },
         {
@@ -192,7 +192,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Utilidades Domésticas',
             room: 'cozinha',
-            image: './fotodosprodutos/Potes Herméticos Electrolux de Plástico Cinza Retangular com 12 Unidades.jpg',
+            image: './fotodosprodutos/19.jpg',
             url: 'https://s.shopee.com.br/3fuOX8dUre'
         },
         {
@@ -210,7 +210,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Utilidades Domésticas',
             room: 'cozinha',
-            image: './fotodosprodutos/Boleira com Cúpula e Pé Natural Bambu.jpg',
+            image: './fotodosprodutos/18.jpg',
             url: 'https://s.shopee.com.br/5pyt6QV1Dq'
         },
         // Produtos existentes (mantidos com os links atualizados)
@@ -256,7 +256,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Móveis',
             room: 'quarto-casal',
-            image: './fotodosprodutos/Conjunto de Quarto com Guarda-roupa e Cômoda.jpg',
+            image: './fotodosprodutos/22.jpg',
             url: 'https://s.shopee.com.br/4VTVLxs6Yb'
         },
         {
@@ -374,7 +374,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Iluminação',
             room: 'sala',
-            image: './fotodosprodutos/Abajur De Chão Tripé Luminária De Piso Para Sala.jpg',
+            image: './fotodosprodutos/11.jpg',
             url: 'https://s.shopee.com.br/8AMntFV9Fp'
         },
         {
@@ -383,7 +383,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Móveis',
             room: 'escritorio',
-            image: './fotodosprodutos/Conjunto Estantes para Livros.jpg',
+            image: './fotodosprodutos/12.jpg',
             url: 'https://s.shopee.com.br/9pV1s77JBt'
         },
         {
@@ -401,7 +401,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Cozinha',
             room: 'cozinha',
-            image: './fotodosprodutos/Jogo de Panelas Peças Indução Gás Conjunto de Panelas Revestido em Cerâmica Granito Antiaderente Frigideira Caçarola.jpg',
+            image: './fotodosprodutos/13.jpg',
             url: 'https://s.shopee.com.br/9pV1rfEYwn'
         },
         {
@@ -419,7 +419,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Móveis',
             room: 'escritorio',
-            image: './fotodosprodutos/Mesa Para Computador Escrivaninha.jpg',
+            image: './fotodosprodutos/14.jpg',
             url: 'https://s.shopee.com.br/2LP0wOGzO4'
         },
         {
@@ -428,7 +428,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Utilidades Domésticas',
             room: 'lavanderia',
-            image: './fotodosprodutos/Mop Flat Lava e Seca com Refil Extra de Microfibra Electrolux ORIGINAL.jpg',
+            image: './fotodosprodutos/15.jpg',
             url: 'https://s.shopee.com.br/3fuOX8dUre'
         },
         {
@@ -437,7 +437,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Cama, Mesa e Banho',
             room: 'quarto-casal',
-            image: './fotodosprodutos/Cobre Leito Casal Colcha Super Soft.jpg',
+            image: './fotodosprodutos/16.jpg',
             url: 'https://s.shopee.com.br/30ehjfqpyf'
         },
         {
@@ -446,7 +446,7 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Móveis',
             room: 'quarto-casal',
-            image: './fotodosprodutos/Guarda-Roupa Casal com Espelho.jpg',
+            image: './fotodosprodutos/17.jpg',
             url: 'https://s.shopee.com.br/30ehjTZgZQ'
         }
     ];
