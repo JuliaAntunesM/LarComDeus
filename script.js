@@ -165,8 +165,8 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Utilidades Domésticas',
             room: 'cozinha',
-            image: './fotodosprodutos/Kit 3 Formas com Fundo Removível Antiaderente.jpg',
-            url: '#'
+            image: './fotodosprodutos/Kit 3 Formas com Fundo Removível Antiaderente.jpg',
+            url: 'https://s.shopee.com.br/6fY0662DEm'
         },
         {
             id: 'kit-almofadas-macrame',
@@ -175,7 +175,7 @@ document.addEventListener('DOMContentLoaded', function() {
             category: 'Decoração',
             room: 'sala',
             image: './fotodosprodutos/Kit de Almofadas Coroa Caramelo Macrame Artesanal.jpg',
-            url: '#'
+            url: 'https://s.shopee.com.br/3fuOX8dUre'
         },
         {
             id: 'pote-hermetico-vidro',
@@ -183,8 +183,8 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Utilidades Domésticas',
             room: 'cozinha',
-            image: './fotodosprodutos/Pote Hermético Vidro Cozinha.jpg',
-            url: '#'
+            image: './fotodosprodutos/Pote Hermético Vidro Cozinha.jpg',
+            url: 'https://s.shopee.com.br/60IJISxFYq'
         },
         {
             id: 'potes-hermeticos-electrolux',
@@ -192,8 +192,8 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Utilidades Domésticas',
             room: 'cozinha',
-            image: './fotodosprodutos/Potes Herméticos Electrolux de Plástico Cinza Retangular com 12 Unidades.jpg',
-            url: '#'
+            image: './fotodosprodutos/Potes Herméticos Electrolux de Plástico Cinza Retangular com 12 Unidades.jpg',
+            url: 'https://s.shopee.com.br/3fuOX8dUre'
         },
         {
             id: 'conjunto-potes-hermeticos',
@@ -202,7 +202,7 @@ document.addEventListener('DOMContentLoaded', function() {
             category: 'Utilidades Domésticas',
             room: 'cozinha',
             image: './fotodosprodutos/Conjunto de  Potes Herméticos em Acrílico Cristal com Trava e Design Empilhável.jpg',
-            url: '#'
+            url: 'https://s.shopee.com.br/3fuOX8dUre'
         },
         {
             id: 'boleira-bambu',
@@ -210,8 +210,8 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Utilidades Domésticas',
             room: 'cozinha',
-            image: './fotodosprodutos/Boleira com Cúpula e Pé Natural Bambu.jpg',
-            url: '#'
+            image: './fotodosprodutos/Boleira com Cúpula e Pé Natural Bambu.jpg',
+            url: 'https://s.shopee.com.br/5pyt6QV1Dq'
         },
         // Produtos existentes (mantidos com os links atualizados)
         {
@@ -374,8 +374,8 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Iluminação',
             room: 'sala',
-            image: './fotodosprodutos/Abajur De Chão Tripé Luminária De Piso Para Sala.jpg',
-            url: '#'
+            image: './fotodosprodutos/Abajur De Chão Tripé Luminária De Piso Para Sala.jpg',
+            url: 'https://s.shopee.com.br/8AMntFV9Fp'
         },
         {
             id: 'conjunto-estantes-livros',
@@ -383,8 +383,8 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Móveis',
             room: 'escritorio',
-            image: './fotodosprodutos/Conjunto Estantes para Livros.jpg',
-            url: '#'
+            image: './fotodosprodutos/Conjunto Estantes para Livros.jpg',
+            url: 'https://s.shopee.com.br/9pV1s77JBt'
         },
         {
             id: 'jogo-banheiro-kit-lavabo-porcelana',
@@ -393,7 +393,7 @@ document.addEventListener('DOMContentLoaded', function() {
             category: 'Utilidades Domésticas',
             room: 'banheiro',
             image: './fotodosprodutos/Jogo Banheiro Kit Lavabo Porcelana.jpg',
-            url: '#'
+            url: 'https://s.shopee.com.br/7AUGgY3ZFx'
         },
         {
             id: 'jogo-panelas-pecas-ceramica-granito',
@@ -401,8 +401,8 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Cozinha',
             room: 'cozinha',
-            image: './fotodosprodutos/Jogo de Panelas Peças Indução Gás Conjunto de Panelas Revestido em Cerâmica Granito Antiaderente Frigideira Caçarola.jpg',
-            url: '#'
+            image: './fotodosprodutos/Jogo de Panelas Peças Indução Gás Conjunto de Panelas Revestido em Cerâmica Granito Antiaderente Frigideira Caçarola.jpg',
+            url: 'https://s.shopee.com.br/9pV1rfEYwn'
         },
         {
             id: 'kit-2-mesas-cabeceira-dourado',
@@ -411,7 +411,7 @@ document.addEventListener('DOMContentLoaded', function() {
             category: 'Móveis',
             room: 'quarto-casal',
             image: './fotodosprodutos/Kit 2 Mesas de Cabeceira Dourado.jpg',
-            url: '#'
+            url: 'https://s.shopee.com.br/2ViR7u5LmK'
         },
         {
             id: 'mesa-para-computador-escrivaninha',
@@ -419,8 +419,8 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Móveis',
             room: 'escritorio',
-            image: './fotodosprodutos/Mesa Para Computador Escrivaninha.jpg',
-            url: '#'
+            image: './fotodosprodutos/Mesa Para Computador Escrivaninha.jpg',
+            url: 'https://s.shopee.com.br/2LP0wOGzO4'
         },
         {
             id: 'mop-flat-lava-seca-electrolux',
@@ -428,8 +428,8 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Utilidades Domésticas',
             room: 'lavanderia',
-            image: './fotodosprodutos/Mop Flat Lava e Seca com Refil Extra de Microfibra Electrolux ORIGINAL.jpg',
-            url: '#'
+            image: './fotodosprodutos/Mop Flat Lava e Seca com Refil Extra de Microfibra Electrolux ORIGINAL.jpg',
+            url: 'https://s.shopee.com.br/3fuOX8dUre'
         },
         {
             id: 'cobre-leito-casal-super-soft',
@@ -437,8 +437,8 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Cama, Mesa e Banho',
             room: 'quarto-casal',
-            image: './fotodosprodutos/Cobre Leito Casal Colcha Super Soft.jpg',
-            url: '#'
+            image: './fotodosprodutos/Cobre Leito Casal Colcha Super Soft.jpg',
+            url: 'https://s.shopee.com.br/30ehjfqpyf'
         },
         {
             id: 'guarda-roupa-casal-espelho',
@@ -446,8 +446,8 @@ document.addEventListener('DOMContentLoaded', function() {
             price: 0,
             category: 'Móveis',
             room: 'quarto-casal',
-            image: './fotodosprodutos/Guarda-Roupa Casal com Espelho.jpg',
-            url: '#'
+            image: './fotodosprodutos/Guarda-Roupa Casal com Espelho.jpg',
+            url: 'https://s.shopee.com.br/30ehjTZgZQ'
         }
     ];
 
